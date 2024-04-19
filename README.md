@@ -1,5 +1,3 @@
-<img width="2832" alt="erd1" src="https://github.com/perma2022/SartaMarket/assets/121236442/f60f7cfc-4110-460f-8a36-2fadd49d2de7"># SartaMarket
-
 ✅프로젝트 소개
 스파르타 마켓 CRUD
 
